@@ -2,6 +2,8 @@
 
 **Dashboard:** [live on Tableau Public](https://public.tableau.com/app/profile/arjan.bathla/viz/crime_analytics/Trends)
 
+[![Outcomes dashboard](docs/dashboard.png)](https://public.tableau.com/app/profile/arjan.bathla/viz/crime_analytics/Trends)
+
 A SQL-first analysis of police.uk recorded crime data for the Metropolitan
 Police and West Midlands Police, April 2024 – April 2026 (25 months,
 3,046,144 raw rows). All analysis lives in commented `.sql` files; each one
