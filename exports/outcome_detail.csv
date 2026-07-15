@@ -1,0 +1,15 @@
+last_outcome,outcome_group,crimes,pct_of_all
+Investigation complete; no suspect identified,No suspect identified,1219128,48.69
+Unable to prosecute suspect,"Suspect known, unable to prosecute",810387,32.36
+Under investigation,Still in progress / no update,120409,4.81
+Status update unavailable,Still in progress / no update,104779,4.18
+Court result unavailable,Charged or court process,84721,3.38
+Awaiting court outcome,Charged or court process,65434,2.61
+Local resolution,Out-of-court resolution,55319,2.21
+Action to be taken by another organisation,Out-of-court resolution,21630,0.86
+Offender given a caution,Out-of-court resolution,9756,0.39
+Offender given penalty notice,Out-of-court resolution,5245,0.21
+Formal action is not in the public interest,Closed: not in the public interest,3521,0.14
+Further investigation is not in the public interest,Closed: not in the public interest,2834,0.11
+Further action is not in the public interest,Closed: not in the public interest,586,0.02
+Suspect charged as part of another case,Charged or court process,316,0.01

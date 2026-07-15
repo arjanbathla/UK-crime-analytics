@@ -1,0 +1,57 @@
+force,area_group,crime_type,crimes,pct_within_group
+Metropolitan Police Service,rest,Violence and sexual offences,387918,26.14
+Metropolitan Police Service,rest,Anti-social behaviour,341297,23.00
+Metropolitan Police Service,rest,Vehicle crime,145257,9.79
+Metropolitan Police Service,rest,Other theft,109046,7.35
+Metropolitan Police Service,rest,Criminal damage and arson,83870,5.65
+Metropolitan Police Service,rest,Burglary,76234,5.14
+Metropolitan Police Service,rest,Public order,72550,4.89
+Metropolitan Police Service,rest,Shoplifting,66382,4.47
+Metropolitan Police Service,rest,Drugs,66058,4.45
+Metropolitan Police Service,rest,Theft from the person,56855,3.83
+Metropolitan Police Service,rest,Robbery,35944,2.42
+Metropolitan Police Service,rest,Other crime,17842,1.20
+Metropolitan Police Service,rest,Bicycle theft,17444,1.18
+Metropolitan Police Service,rest,Possession of weapons,7508,0.51
+Metropolitan Police Service,top decile,Violence and sexual offences,155521,18.08
+Metropolitan Police Service,top decile,Anti-social behaviour,145212,16.88
+Metropolitan Police Service,top decile,Theft from the person,125560,14.60
+Metropolitan Police Service,top decile,Shoplifting,115911,13.48
+Metropolitan Police Service,top decile,Other theft,100725,11.71
+Metropolitan Police Service,top decile,Public order,42075,4.89
+Metropolitan Police Service,top decile,Vehicle crime,35614,4.14
+Metropolitan Police Service,top decile,Drugs,30908,3.59
+Metropolitan Police Service,top decile,Robbery,29943,3.48
+Metropolitan Police Service,top decile,Criminal damage and arson,28834,3.35
+Metropolitan Police Service,top decile,Burglary,25354,2.95
+Metropolitan Police Service,top decile,Bicycle theft,12187,1.42
+Metropolitan Police Service,top decile,Other crime,8486,0.99
+Metropolitan Police Service,top decile,Possession of weapons,3690,0.43
+West Midlands Police,rest,Violence and sexual offences,200552,43.77
+West Midlands Police,rest,Vehicle crime,44060,9.62
+West Midlands Police,rest,Criminal damage and arson,38194,8.34
+West Midlands Police,rest,Anti-social behaviour,31740,6.93
+West Midlands Police,rest,Shoplifting,27410,5.98
+West Midlands Police,rest,Other theft,25945,5.66
+West Midlands Police,rest,Public order,23906,5.22
+West Midlands Police,rest,Burglary,23824,5.20
+West Midlands Police,rest,Drugs,10778,2.35
+West Midlands Police,rest,Other crime,10636,2.32
+West Midlands Police,rest,Possession of weapons,8897,1.94
+West Midlands Police,rest,Robbery,7984,1.74
+West Midlands Police,rest,Theft from the person,2318,0.51
+West Midlands Police,rest,Bicycle theft,1953,0.43
+West Midlands Police,top decile,Violence and sexual offences,75207,33.33
+West Midlands Police,top decile,Shoplifting,39905,17.69
+West Midlands Police,top decile,Anti-social behaviour,16727,7.41
+West Midlands Police,top decile,Other theft,15810,7.01
+West Midlands Police,top decile,Vehicle crime,14767,6.54
+West Midlands Police,top decile,Public order,14348,6.36
+West Midlands Police,top decile,Criminal damage and arson,14283,6.33
+West Midlands Police,top decile,Drugs,7821,3.47
+West Midlands Police,top decile,Burglary,7664,3.40
+West Midlands Police,top decile,Robbery,5989,2.65
+West Midlands Police,top decile,Possession of weapons,4833,2.14
+West Midlands Police,top decile,Theft from the person,3259,1.44
+West Midlands Police,top decile,Other crime,3123,1.38
+West Midlands Police,top decile,Bicycle theft,1888,0.84

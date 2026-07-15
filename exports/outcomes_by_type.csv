@@ -1,0 +1,157 @@
+force,crime_type,outcome_group,crimes,pct_of_type
+Metropolitan Police Service,Bicycle theft,No suspect identified,26710,90.04
+Metropolitan Police Service,Bicycle theft,"Suspect known, unable to prosecute",1472,4.96
+Metropolitan Police Service,Bicycle theft,Still in progress / no update,1137,3.83
+Metropolitan Police Service,Bicycle theft,Charged or court process,298,1.00
+Metropolitan Police Service,Bicycle theft,Out-of-court resolution,40,0.13
+Metropolitan Police Service,Bicycle theft,Closed: not in the public interest,8,0.03
+Metropolitan Police Service,Burglary,No suspect identified,78033,76.73
+Metropolitan Police Service,Burglary,"Suspect known, unable to prosecute",10980,10.80
+Metropolitan Police Service,Burglary,Still in progress / no update,7694,7.57
+Metropolitan Police Service,Burglary,Charged or court process,4806,4.73
+Metropolitan Police Service,Burglary,Out-of-court resolution,109,0.11
+Metropolitan Police Service,Burglary,Closed: not in the public interest,78,0.08
+Metropolitan Police Service,Criminal damage and arson,No suspect identified,71379,63.17
+Metropolitan Police Service,Criminal damage and arson,"Suspect known, unable to prosecute",27150,24.03
+Metropolitan Police Service,Criminal damage and arson,Still in progress / no update,8053,7.13
+Metropolitan Police Service,Criminal damage and arson,Charged or court process,4641,4.11
+Metropolitan Police Service,Criminal damage and arson,Out-of-court resolution,1555,1.38
+Metropolitan Police Service,Criminal damage and arson,Closed: not in the public interest,221,0.20
+Metropolitan Police Service,Drugs,"Suspect known, unable to prosecute",36293,37.27
+Metropolitan Police Service,Drugs,Out-of-court resolution,31432,32.28
+Metropolitan Police Service,Drugs,Charged or court process,14050,14.43
+Metropolitan Police Service,Drugs,Still in progress / no update,12209,12.54
+Metropolitan Police Service,Drugs,No suspect identified,2699,2.77
+Metropolitan Police Service,Drugs,Closed: not in the public interest,697,0.72
+Metropolitan Police Service,Other crime,"Suspect known, unable to prosecute",8187,30.55
+Metropolitan Police Service,Other crime,Still in progress / no update,6560,24.48
+Metropolitan Police Service,Other crime,No suspect identified,5207,19.43
+Metropolitan Police Service,Other crime,Charged or court process,3272,12.21
+Metropolitan Police Service,Other crime,Out-of-court resolution,1861,6.94
+Metropolitan Police Service,Other crime,Closed: not in the public interest,1711,6.38
+Metropolitan Police Service,Other theft,No suspect identified,171777,81.46
+Metropolitan Police Service,Other theft,"Suspect known, unable to prosecute",24552,11.64
+Metropolitan Police Service,Other theft,Still in progress / no update,12421,5.89
+Metropolitan Police Service,Other theft,Charged or court process,1381,0.65
+Metropolitan Police Service,Other theft,Out-of-court resolution,519,0.25
+Metropolitan Police Service,Other theft,Closed: not in the public interest,223,0.11
+Metropolitan Police Service,Possession of weapons,Charged or court process,4544,40.32
+Metropolitan Police Service,Possession of weapons,"Suspect known, unable to prosecute",2779,24.66
+Metropolitan Police Service,Possession of weapons,Still in progress / no update,2327,20.65
+Metropolitan Police Service,Possession of weapons,No suspect identified,1217,10.80
+Metropolitan Police Service,Possession of weapons,Out-of-court resolution,306,2.72
+Metropolitan Police Service,Possession of weapons,Closed: not in the public interest,96,0.85
+Metropolitan Police Service,Public order,"Suspect known, unable to prosecute",49032,42.60
+Metropolitan Police Service,Public order,No suspect identified,40053,34.80
+Metropolitan Police Service,Public order,Still in progress / no update,15689,13.63
+Metropolitan Police Service,Public order,Charged or court process,8709,7.57
+Metropolitan Police Service,Public order,Out-of-court resolution,935,0.81
+Metropolitan Police Service,Public order,Closed: not in the public interest,686,0.60
+Metropolitan Police Service,Robbery,No suspect identified,40752,61.75
+Metropolitan Police Service,Robbery,"Suspect known, unable to prosecute",14273,21.63
+Metropolitan Police Service,Robbery,Still in progress / no update,7407,11.22
+Metropolitan Police Service,Robbery,Charged or court process,3394,5.14
+Metropolitan Police Service,Robbery,Out-of-court resolution,123,0.19
+Metropolitan Police Service,Robbery,Closed: not in the public interest,43,0.07
+Metropolitan Police Service,Shoplifting,No suspect identified,130161,71.37
+Metropolitan Police Service,Shoplifting,"Suspect known, unable to prosecute",23776,13.04
+Metropolitan Police Service,Shoplifting,Charged or court process,15197,8.33
+Metropolitan Police Service,Shoplifting,Still in progress / no update,7737,4.24
+Metropolitan Police Service,Shoplifting,Out-of-court resolution,4786,2.62
+Metropolitan Police Service,Shoplifting,Closed: not in the public interest,722,0.40
+Metropolitan Police Service,Theft from the person,No suspect identified,161886,88.54
+Metropolitan Police Service,Theft from the person,"Suspect known, unable to prosecute",11641,6.37
+Metropolitan Police Service,Theft from the person,Still in progress / no update,7950,4.35
+Metropolitan Police Service,Theft from the person,Charged or court process,1058,0.58
+Metropolitan Police Service,Theft from the person,Out-of-court resolution,239,0.13
+Metropolitan Police Service,Theft from the person,Closed: not in the public interest,68,0.04
+Metropolitan Police Service,Vehicle crime,No suspect identified,163183,89.82
+Metropolitan Police Service,Vehicle crime,"Suspect known, unable to prosecute",10057,5.54
+Metropolitan Police Service,Vehicle crime,Still in progress / no update,6423,3.54
+Metropolitan Police Service,Vehicle crime,Charged or court process,1793,0.99
+Metropolitan Police Service,Vehicle crime,Out-of-court resolution,140,0.08
+Metropolitan Police Service,Vehicle crime,Closed: not in the public interest,85,0.05
+Metropolitan Police Service,Violence and sexual offences,"Suspect known, unable to prosecute",287123,52.25
+Metropolitan Police Service,Violence and sexual offences,No suspect identified,113917,20.73
+Metropolitan Police Service,Violence and sexual offences,Still in progress / no update,95904,17.45
+Metropolitan Police Service,Violence and sexual offences,Charged or court process,33972,6.18
+Metropolitan Police Service,Violence and sexual offences,Out-of-court resolution,17164,3.12
+Metropolitan Police Service,Violence and sexual offences,Closed: not in the public interest,1433,0.26
+West Midlands Police,Bicycle theft,No suspect identified,2756,71.70
+West Midlands Police,Bicycle theft,"Suspect known, unable to prosecute",854,22.22
+West Midlands Police,Bicycle theft,Still in progress / no update,110,2.86
+West Midlands Police,Bicycle theft,Charged or court process,98,2.55
+West Midlands Police,Bicycle theft,Out-of-court resolution,25,0.65
+West Midlands Police,Bicycle theft,Closed: not in the public interest,1,0.03
+West Midlands Police,Burglary,No suspect identified,22036,69.87
+West Midlands Police,Burglary,"Suspect known, unable to prosecute",5543,17.58
+West Midlands Police,Burglary,Charged or court process,2457,7.79
+West Midlands Police,Burglary,Still in progress / no update,1307,4.14
+West Midlands Police,Burglary,Out-of-court resolution,187,0.59
+West Midlands Police,Burglary,Closed: not in the public interest,7,0.02
+West Midlands Police,Criminal damage and arson,No suspect identified,25940,49.38
+West Midlands Police,Criminal damage and arson,"Suspect known, unable to prosecute",20174,38.40
+West Midlands Police,Criminal damage and arson,Charged or court process,2653,5.05
+West Midlands Police,Criminal damage and arson,Still in progress / no update,1921,3.66
+West Midlands Police,Criminal damage and arson,Out-of-court resolution,1825,3.47
+West Midlands Police,Criminal damage and arson,Closed: not in the public interest,21,0.04
+West Midlands Police,Drugs,Out-of-court resolution,9329,50.12
+West Midlands Police,Drugs,"Suspect known, unable to prosecute",3441,18.49
+West Midlands Police,Drugs,Charged or court process,3184,17.11
+West Midlands Police,Drugs,Still in progress / no update,1620,8.70
+West Midlands Police,Drugs,No suspect identified,939,5.04
+West Midlands Police,Drugs,Closed: not in the public interest,100,0.54
+West Midlands Police,Other crime,"Suspect known, unable to prosecute",7566,54.90
+West Midlands Police,Other crime,No suspect identified,2432,17.65
+West Midlands Police,Other crime,Charged or court process,1887,13.69
+West Midlands Police,Other crime,Still in progress / no update,1015,7.37
+West Midlands Police,Other crime,Out-of-court resolution,705,5.12
+West Midlands Police,Other crime,Closed: not in the public interest,176,1.28
+West Midlands Police,Other theft,No suspect identified,23895,57.17
+West Midlands Police,Other theft,"Suspect known, unable to prosecute",14637,35.02
+West Midlands Police,Other theft,Still in progress / no update,1882,4.50
+West Midlands Police,Other theft,Charged or court process,731,1.75
+West Midlands Police,Other theft,Out-of-court resolution,649,1.55
+West Midlands Police,Other theft,Closed: not in the public interest,4,0.01
+West Midlands Police,Possession of weapons,"Suspect known, unable to prosecute",5557,40.47
+West Midlands Police,Possession of weapons,Charged or court process,3581,26.08
+West Midlands Police,Possession of weapons,No suspect identified,2885,21.01
+West Midlands Police,Possession of weapons,Still in progress / no update,1027,7.48
+West Midlands Police,Possession of weapons,Out-of-court resolution,650,4.73
+West Midlands Police,Possession of weapons,Closed: not in the public interest,32,0.23
+West Midlands Police,Public order,"Suspect known, unable to prosecute",21438,56.00
+West Midlands Police,Public order,No suspect identified,9518,24.86
+West Midlands Police,Public order,Charged or court process,3749,9.79
+West Midlands Police,Public order,Still in progress / no update,2186,5.71
+West Midlands Police,Public order,Out-of-court resolution,1203,3.14
+West Midlands Police,Public order,Closed: not in the public interest,190,0.50
+West Midlands Police,Robbery,No suspect identified,7141,51.09
+West Midlands Police,Robbery,"Suspect known, unable to prosecute",3976,28.45
+West Midlands Police,Robbery,Charged or court process,1759,12.58
+West Midlands Police,Robbery,Still in progress / no update,932,6.67
+West Midlands Police,Robbery,Out-of-court resolution,165,1.18
+West Midlands Police,Robbery,Closed: not in the public interest,4,0.03
+West Midlands Police,Shoplifting,No suspect identified,28395,42.18
+West Midlands Police,Shoplifting,"Suspect known, unable to prosecute",19428,28.86
+West Midlands Police,Shoplifting,Charged or court process,14313,21.26
+West Midlands Police,Shoplifting,Still in progress / no update,2886,4.29
+West Midlands Police,Shoplifting,Out-of-court resolution,2263,3.36
+West Midlands Police,Shoplifting,Closed: not in the public interest,36,0.05
+West Midlands Police,Theft from the person,No suspect identified,3314,59.40
+West Midlands Police,Theft from the person,"Suspect known, unable to prosecute",1772,31.76
+West Midlands Police,Theft from the person,Still in progress / no update,273,4.89
+West Midlands Police,Theft from the person,Charged or court process,122,2.19
+West Midlands Police,Theft from the person,Out-of-court resolution,97,1.74
+West Midlands Police,Theft from the person,Closed: not in the public interest,1,0.02
+West Midlands Police,Vehicle crime,No suspect identified,47269,80.22
+West Midlands Police,Vehicle crime,"Suspect known, unable to prosecute",8093,13.73
+West Midlands Police,Vehicle crime,Charged or court process,1963,3.33
+West Midlands Police,Vehicle crime,Still in progress / no update,1388,2.36
+West Midlands Police,Vehicle crime,Out-of-court resolution,208,0.35
+West Midlands Police,Vehicle crime,Closed: not in the public interest,3,0.01
+West Midlands Police,Violence and sexual offences,"Suspect known, unable to prosecute",190593,69.07
+West Midlands Police,Violence and sexual offences,No suspect identified,35634,12.91
+West Midlands Police,Violence and sexual offences,Still in progress / no update,17130,6.21
+West Midlands Police,Violence and sexual offences,Charged or court process,16859,6.11
+West Midlands Police,Violence and sexual offences,Out-of-court resolution,15435,5.59
+West Midlands Police,Violence and sexual offences,Closed: not in the public interest,295,0.11

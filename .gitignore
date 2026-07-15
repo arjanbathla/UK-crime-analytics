@@ -1,0 +1,5 @@
+# raw data is ~700MB and re-downloadable from data.police.uk (see README)
+data/
+.DS_Store
+.claude/
+# exports are small deliverables and ARE committed

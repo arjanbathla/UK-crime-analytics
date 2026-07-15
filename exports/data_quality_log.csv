@@ -1,0 +1,10 @@
+step,description,row_count
+1,raw rows loaded,3046144
+2,raw rows with non-empty context column (expect 0),0
+3,raw rows where falls_within differs from reported_by (expect 0),0
+4,"rows with no crime_id (all ASB, cannot be deduplicated)",535180
+5,surplus duplicate rows (same crime_id appearing more than once),6899
+6,clean rows kept,3039245
+7,"clean rows with no location (kept, excluded from geography only)",1
+8,clean rows located outside the recording force's own area,11198
+9,non-ASB rows with blank outcome,0
